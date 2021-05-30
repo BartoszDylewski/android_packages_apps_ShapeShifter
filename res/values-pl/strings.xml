@@ -134,6 +134,7 @@
     <string name="shapeshiftos_about_san" translatable="false">san9scurtu</string>
     <string name="shapeshiftos_about_san_summary" translatable="false">Developer</string>
     <string name="about_maintainer">Maintainer</string>
+<<<<<<< HEAD
     <string name="shapeshiftos_about_maintainer">Deweloper romu na twoje urządzenie to:</string>
     <string name="shapeshiftos_about_maintainer_summary" translatable="false">Zbyt leniwy aby to wypełnić</string>
 
@@ -145,6 +146,19 @@
     <string name="ok_string">Ok</string>
     <string name="default_string">Domyślne</string>
     <string name="disabled">Wyłączone</string>
+=======
+    <string name="shapeshiftos_about_maintainer">Deweloperem romu na to urządzenie jest:</string>
+    <string name="shapeshiftos_about_maintainer_summary" translatable="false">Too lazy to fill this up</string>
+
+    <!-- Reusable strings -->
+    <string name="advanced_behavior_title">Advanced behavior</string>
+    <string name="appearance_category">APPEARANCE</string>
+    <string name="behavior_category">BEHAVIOR</string>
+    <string name="enable_first">Please enable first</string>
+    <string name="ok_string">Ok</string>
+    <string name="default_string">Domyślne</string>
+    <string name="disabled">Disabled</string>
+>>>>>>> 73d8b8fe80de1367c29f6c4a9f6c715364dda610
     <string name="unsupported_gestures">Enable two button or three button navigation to use this feature</string>
     <string name="unsupported_navigation_bar">Enable gesture navigation to use this feature</string>
     <string name="unsupported_feature_summary">This feature is unsupported by your device</string>
