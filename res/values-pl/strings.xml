@@ -67,7 +67,7 @@
     <string name="lockscreen_aosp_summary">Configure AOSP options for lockscreen &amp; ambient display</string>
     <string name="lockscreen_general_title">General options</string>
     <string name="lockscreen_general_summary">Add or remove visual elements of your lockscreen</string>
-    <string name="lockscreen_tuner_title">Lockscreen tuner</string>
+    <string name="lockscreen_tuner_title">Modyfikacje ekranu blokady</string>
     <string name="lockscreen_tuner_summary">Add or remove tuner parts of your lockscreen</string>
     <string name="lockscreen_weather_title">Pogoda</string>
     <string name="lockscreen_weather_summary">Dostosuj pogodę na ekranie blokady</string>
@@ -91,7 +91,7 @@
 <!-- OTHER -->
     <!-- Empty Preference Screen (if applicable) -->
     <string name="empty_category_title">Brak dodatkowych opcji...</string>
-    <string name="empty_category_description">Jednakże, nowe opcje mogą zostać dodane juz niedługo! Sprawdź później...</string>
+    <string name="empty_category_description">Jednakże, nowe opcje mogą zostać dodane juz niedługo! Sprawdź za kilka dni...</string>
     <string name="dummy_string"> </string>
 
     <!-- Sub-Categorized XMLs - DO NOT REMOVE -->
@@ -102,7 +102,7 @@
     <string name="battery_style_qs">Quick panel battery</string>
     <string name="brightness_control_category">Brightness control</string>
     <string name="custom_header_title">Custom header</string>
-    <string name="led_notifications_title">LED notifications</string>
+    <string name="led_notifications_title">Mryganie diody po otrzymaniu powiadomienia</string>
     <string name="led_battery_title">Battery LED</string>
     <string name="lockscreen_visualizer_enable">Music Visualizer</string>
     <string name="qs_panel_layout_category">QS panel layout</string>
